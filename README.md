@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Eshah</h1>
-<h3 align="center">A data science trainee from Pakistan</h3>
+<h1 align="center">Hi 👋, This is Eshah</h1>
+<h3 align="center">I'm a data science trainee from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/c7/df/efc7df4bdceff01d890961f3eb368863.gif")
 
-- 🌱 I’m currently learning **Computer Vision, NLPs, LLMS**
+🌱 I’m currently learning **Computer Vision, NLPs, LLMS**
 
-- 🤝 I’m looking for help with **MachineLearning, DeepLearning**
+🤝 I’m looking for help with **MachineLearning, DeepLearning**
 
-- 👨‍💻 All of my projects are available at [https://shorturl.at/qxIVX](https://shorturl.at/qxIVX)
+👨‍💻 All of my projects are available at [https://shorturl.at/qxIVX](https://shorturl.at/qxIVX)
 
-- 💬 Ask me about **Chatgpt, Python,Deep Learning**
+💬 Ask me about **Chatgpt, Python,Deep Learning**
 
-- 📫 How to reach me **eeshah.arshad@gmail.com**
+📫 How to reach me **eeshah.arshad@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/ciBM4](https://shorturl.at/ciBM4)
+📄 Know about my experiences [https://shorturl.at/ciBM4](https://shorturl.at/ciBM4)
 
-- ⚡ Fun fact **I can draw sometimes**
+⚡ Fun fact **I can draw sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
